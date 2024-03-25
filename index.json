@@ -7,6 +7,16 @@
   ],
   "scripts": [
     {
+      "name": "FanNovel",
+      "fileName": "FanNovel",
+      "imageURL": "",
+      "id": 1308639962,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
       "name": "ReadWN",
       "fileName": "ReadWN",
       "imageURL": "",
@@ -51,16 +61,6 @@
       "fileName": "Wuxiap",
       "imageURL": "",
       "id": 1308639968,
-      "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "md5": ""
-    },
-    {
-      "name": "FanNovel",
-      "fileName": "FanNovel",
-      "imageURL": "",
-      "id": 1308639962,
       "lang": "en",
       "ver": "1.0.0",
       "libVer": "1.0.0",
